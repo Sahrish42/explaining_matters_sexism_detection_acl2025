@@ -1,1 +1,2 @@
-# explaining_matters_sexism_detection_acl2025
+# Explaining Matters: Leveraging Definitions and Semantic Expansion
+for Sexism Detection
